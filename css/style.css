@@ -1,5 +1,7 @@
 a.current{
 	color: rgb(64, 170, 184);
+	text-decoration: dotted;
+	text-shadow: #E6DDC4;
   }
 body{
 	margin:1%;
